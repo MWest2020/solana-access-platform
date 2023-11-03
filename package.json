@@ -1,0 +1,35 @@
+{
+  "name": "solana-access-platform",
+  "version": "1.0.0",
+  "description": "A decentralized platform for course access using Solana blockchain",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/solana-access-platform.git"
+  },
+  "keywords": [
+    "solana",
+    "blockchain",
+    "education",
+    "courses",
+    "resell",
+    "decentralized"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/solana-access-platform/issues"
+  },
+  "homepage": "https://github.com/yourusername/solana-access-platform#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.10.0",
+    "express": "^4.17.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  }
+}
